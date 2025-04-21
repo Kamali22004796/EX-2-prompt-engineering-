@@ -122,4 +122,4 @@ Complex scenarios tend to be handled more accurately by ChatGPT, whereas simpler
 
 # 3. Depth:
 Gemini offers deeper responses in unstructured or broad prompts, while ChatGPT is more efficient in structured, refined prompts. Overall, the best model depends on user preference for detail, clarity, and the complexity of the prompt. Gemini is the best choice for users seeking more depth and detailed explanations
-# RESULT
+
